@@ -1,4 +1,4 @@
-# Ricochet Keeper
+# Hello world!
 This repository contains [Apache Airflow DAGs](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html) for executing keeper operations for Ricochet Exchange.
 
 # Usage
